@@ -6,9 +6,10 @@ body {
 }
 
 section {
-    height: 600px;
+    height: auto;
     width: 800px;
     margin: auto;
+    background-color: gray;
 }
 
 
